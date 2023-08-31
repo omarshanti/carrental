@@ -1,0 +1,12 @@
+.layout-px-spacing {
+    padding: 0px 2px !important;
+    min-height: calc(100vh - 125px) !important;
+}
+
+.container {
+    padding: 0px!important;
+    display: flex !important;
+    min-width: 100% !important;
+    margin-left: 2px !important;
+   
+}

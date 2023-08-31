@@ -1,0 +1,8 @@
+<?php
+
+return [ 
+
+'HOME' => "HOME",
+
+
+];
